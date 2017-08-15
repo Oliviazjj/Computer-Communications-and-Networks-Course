@@ -2,7 +2,6 @@
 * server.c
 * Description: HTTP server program
 * CSC 361
-* Instructor: Kui Wu
 -------------------------------*/
 
 #include <sys/types.h>
