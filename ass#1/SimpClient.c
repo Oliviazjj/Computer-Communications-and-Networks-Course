@@ -2,7 +2,6 @@
 * client.c
 * Description: HTTP client program
 * CSC 361
-* Instructor: Kui Wu
 -------------------------------*/
 
 /* define maximal string and reply length, this is just an example.*/
